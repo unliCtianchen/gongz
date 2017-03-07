@@ -1,0 +1,27 @@
+----创建本地版本库
+	git init ---把当前这个目录变成 Git 可以管理的仓库
+--- 添加文件 可以多次添加
+$ git add file1.txt
+$ git add file2.txt file3.txt
+
+git config --global user.email "你的邮箱"
+git config --global user.name "你的名字"
+
+--- 提交文件 
+$ git commit -m "add 3 files."
+干嘛啊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
